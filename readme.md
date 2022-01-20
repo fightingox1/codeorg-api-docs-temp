@@ -303,13 +303,7 @@ I made this API for a project I had and aside from messing around with the api a
 keeping the servers running anyway to make it so other people can work multiplayer aswell in there projects. Along with that I don't even have many ideas for
 features to add, however I still want to (and plan on) continue to update this api frequently.
 
-License
+Credits
 -------
 
-The project is licensed under the BSD license.
-
-
-
-
-
-###### Made and hosted by Tyler Spruill
+Made and hosted by Tyler Spruill
