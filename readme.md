@@ -306,4 +306,4 @@ features to add, however I still want to (and plan on) continue to update this a
 Credits
 -------
 
-Made and hosted by Tyler Spruill
+###Made and hosted by Tyler Spruill
