@@ -1,4 +1,4 @@
-codeorg-api - documentation
+codeorg-api   documentation
 ===========================
 ###### version 0.0.1
 ##### Please note API is not currently supported by code.org, and as such no api commands, or examples will work until hostname is approved
